@@ -1,0 +1,26 @@
+product_id,product_title,part_number,product_name,category,variant,attribute 1 name,attribute 1 value
+89,Koni STR.T Dampers – Front Left Side – Part No. 8650-1010,8650-1010,Koni STR.T Dampers,Damper,Front-Left-Side,vehicle_no,57|156|158
+90,Koni Sport Dampers – Front Left Side – Part No. 86-2066SPORT,86-2066SPORT,Koni Sport Dampers,Damper,Front-Left-Side,vehicle_no,57|156|158
+91,Koni Sport Dampers – Front Left Side – Part No. 8610-1262SPORT,8610-1262SPORT,Koni Sport Dampers,Damper,Front-Left-Side,vehicle_no,57|156|158
+94,Koni STR.T Dampers – Front Left Side – Part No. 8650-1007,8650-1007,Koni STR.T Dampers,Damper,Front-Left-Side,vehicle_no,62|65|67|186|187|203
+95,Koni STR.T Dampers – Rear Left Side – Part No. 8050-1077,8050-1077,Koni STR.T Dampers,Damper,Rear-Left-Side,vehicle_no,62|65|67|186|187|203
+96,Koni STR.T Dampers – Full Set of 4 Dampers – Part No. VAG-ST1497,VAG-ST1497,Koni STR.T Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,62|65|67|186|187|203
+97,Koni Sport Dampers – Front Left Side – Part No. 86-2149SPORT,86-2149SPORT,Koni Sport Dampers,Damper,Front-Left-Side,vehicle_no,62|65|67|131|132|134|175|176|186|187|203
+98,Koni Sport Dampers – Rear Left Side – Part No. 80-2762SPORT,80-2762SPORT,Koni Sport Dampers,Damper,Rear-Left-Side,vehicle_no,62|65|67|131|134
+99,Koni Sport Dampers – Full Set of 4 Dampers – Part No. VAG-SP1498,VAG-SP1498,Koni Sport Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,62|65|67|131|134
+100,Koni Sport Dampers – Rear Left Side – Part No. 80-2630SPORT,80-2630SPORT,Koni Sport Dampers,Damper,Rear-Left-Side,vehicle_no,62|65|67|132|134|175|176|186|187|203
+101,Koni Sport Dampers – Full Set of 4 Dampers – Part No. VAG-SP1497,VAG-SP1497,Koni Sport Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,62|65|67|132|134|175|176|186|187|203
+117,Koni Active Dampers – Rear Left Side – Part No. 8245-1402,8245-1402,Koni Active Dampers,Damper,Rear-Left-Side,vehicle_no,1413
+125,Koni Active Dampers – Front Left Side – Part No. 8745-1029,8745-1029,Koni Active Dampers,Damper,Front-Left-Side,vehicle_no,74
+128,Koni STR.T Dampers – Front Left Side – Part No. 8750-1002,8750-1002,Koni STR.T Dampers,Damper,Front-Left-Side,vehicle_no,74|1742|1744|1782
+131,Koni Sport Dampers – Front Left Side – Part No. 8710-1337SPORT,8710-1337SPORT,Koni Sport Dampers,Damper,Front-Left-Side,vehicle_no,74|1742|1744|1782
+134,Koni Active Dampers – Rear Left Side – Part No. 8245-1032,8245-1032,Koni Active Dampers,Damper,Rear-Left-Side,vehicle_no,74|75|171|1451|1742|1743|1745|1782|1783|1784|1786
+135,Koni Active Dampers – Full Set of 4 Dampers – Part No. VAG-SA1211,VAG-SA1211,Koni Active Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,74
+136,Koni STR.T Dampers – Rear Left Side – Part No. 8050-1086,8050-1086,Koni STR.T Dampers,Damper,Rear-Left-Side,vehicle_no,74|75|171|195|197|1451|1742|1743|1745|1782|1783|1784|1786
+137,Koni STR.T Dampers – Full Set of 4 Dampers – Part No. VAG-ST1211,VAG-ST1211,Koni STR.T Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,74|1742|1782
+138,Koni Sport Dampers – Rear Left Side – Part No. 80-2806SPORT,80-2806SPORT,Koni Sport Dampers,Damper,Rear-Left-Side,vehicle_no,74|75|171|1451|1742|1743|1745|1782|1783|1784|1786
+139,Koni Sport Dampers – Full Set of 4 Dampers – Part No. VAG-SP1211,VAG-SP1211,Koni Sport Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,74|1742|1782
+140,Koni Active Dampers – Front Left Side – Part No. 8745-1030,8745-1030,Koni Active Dampers,Damper,Front-Left-Side,vehicle_no,75|171|1451|1742|1743|1745|1782|1783|1784|1786
+141,Koni Active Dampers – Full Set of 4 Dampers – Part No. VAG-SA1213,VAG-SA1213,Koni Active Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,75|171|1451|1742|1743|1745|1782|1783|1784|1786
+142,Koni STR.T Dampers – Front Left Side – Part No. 8750-1063,8750-1063,Koni STR.T Dampers,Damper,Front-Left-Side,vehicle_no,75|1451|1743|1745|1783|1784|1786
+143,Koni STR.T Dampers – Full Set of 4 Dampers – Part No. VAG-ST1213,VAG-ST1213,Koni STR.T Dampers,Damper,Full Set ( 4 dampers ),vehicle_no,75|1451|1743|1745|1783|1784|1786

@@ -1,0 +1,3027 @@
+
+9 Aug 25, 00:24
+'Create Management API Client'
+
+9 Aug 25, 00:24
+'API Host: https://eu1-admin.doofinder.com'
+
+9 Aug 25, 00:24
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+9 Aug 25, 00:24
+'Delete items'
+
+9 Aug 25, 00:24
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+9 Aug 25, 00:24
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sat, 09 Aug 2025 00:24:03 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFnxe54Ap20VS_sBlHCh
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sat, 09 Aug 2025 00:24:03 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFnxe54Ap20VS_sBlHCh
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sat, 09 Aug 2025 00:24:03 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFnxe54Ap20VS_sBlHCh
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+9 Aug 25, 00:24
+'Create Management API Client'
+
+9 Aug 25, 00:24
+'API Host: https://eu1-admin.doofinder.com'
+
+9 Aug 25, 00:24
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+9 Aug 25, 00:24
+'Create Management API Client'
+
+9 Aug 25, 00:24
+'API Host: https://eu1-admin.doofinder.com'
+
+9 Aug 25, 00:24
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+9 Aug 25, 00:24
+'Create Management API Client'
+
+9 Aug 25, 00:24
+'API Host: https://eu1-admin.doofinder.com'
+
+9 Aug 25, 00:24
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+9 Aug 25, 00:24
+'Create Management API Client'
+
+9 Aug 25, 00:24
+'API Host: https://eu1-admin.doofinder.com'
+
+9 Aug 25, 00:24
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+9 Aug 25, 00:24
+'Create Management API Client'
+
+9 Aug 25, 00:24
+'API Host: https://eu1-admin.doofinder.com'
+
+9 Aug 25, 00:24
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+10 Aug 25, 03:04
+'Create Management API Client'
+
+10 Aug 25, 03:04
+'API Host: https://eu1-admin.doofinder.com'
+
+10 Aug 25, 03:04
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+10 Aug 25, 03:04
+'Delete items'
+
+10 Aug 25, 03:04
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+10 Aug 25, 03:04
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sun, 10 Aug 2025 03:04:16 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFpIzpjIIBxRvjsDsS1h
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sun, 10 Aug 2025 03:04:16 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFpIzpjIIBxRvjsDsS1h
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 10 Aug 2025 03:04:16 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFpIzpjIIBxRvjsDsS1h
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+10 Aug 25, 03:04
+'Create Management API Client'
+
+10 Aug 25, 03:04
+'API Host: https://eu1-admin.doofinder.com'
+
+10 Aug 25, 03:04
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+10 Aug 25, 03:04
+'Create Management API Client'
+
+10 Aug 25, 03:04
+'API Host: https://eu1-admin.doofinder.com'
+
+10 Aug 25, 03:04
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+10 Aug 25, 23:52
+'Create Management API Client'
+
+10 Aug 25, 23:52
+'API Host: https://eu1-admin.doofinder.com'
+
+10 Aug 25, 23:52
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+10 Aug 25, 23:54
+'Create Management API Client'
+
+10 Aug 25, 23:54
+'API Host: https://eu1-admin.doofinder.com'
+
+10 Aug 25, 23:54
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+10 Aug 25, 23:54
+'Delete items'
+
+10 Aug 25, 23:54
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+10 Aug 25, 23:54
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sun, 10 Aug 2025 23:54:59 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFqNDrjuQuB1rDQFXdrB
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sun, 10 Aug 2025 23:54:59 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFqNDrjuQuB1rDQFXdrB
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 10 Aug 2025 23:54:59 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFqNDrjuQuB1rDQFXdrB
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+11 Aug 25, 13:31
+'Create Management API Client'
+
+11 Aug 25, 13:31
+'API Host: https://eu1-admin.doofinder.com'
+
+11 Aug 25, 13:31
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+11 Aug 25, 13:31
+'Delete items'
+
+11 Aug 25, 13:31
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+11 Aug 25, 13:31
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Mon, 11 Aug 2025 13:31:37 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFq5nwolJBxE6rUAa--h
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Mon, 11 Aug 2025 13:31:37 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFq5nwolJBxE6rUAa--h
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Mon, 11 Aug 2025 13:31:37 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFq5nwolJBxE6rUAa--h
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+12 Aug 25, 13:30
+'Create Management API Client'
+
+12 Aug 25, 13:30
+'API Host: https://eu1-admin.doofinder.com'
+
+12 Aug 25, 13:30
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+12 Aug 25, 13:30
+'Delete items'
+
+12 Aug 25, 13:30
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+12 Aug 25, 13:30
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Tue, 12 Aug 2025 13:30:50 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFsIKK8Hua1iA8oDDK1R
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Tue, 12 Aug 2025 13:30:50 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFsIKK8Hua1iA8oDDK1R
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Tue, 12 Aug 2025 13:30:50 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFsIKK8Hua1iA8oDDK1R
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+13 Aug 25, 12:49
+'Create Management API Client'
+
+13 Aug 25, 12:49
+'API Host: https://eu1-admin.doofinder.com'
+
+13 Aug 25, 12:49
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+13 Aug 25, 12:49
+'Delete items'
+
+13 Aug 25, 12:49
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+13 Aug 25, 12:49
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Wed, 13 Aug 2025 12:49:35 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFtUfOxBTCg28o4AD36h
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Wed, 13 Aug 2025 12:49:35 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFtUfOxBTCg28o4AD36h
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Wed, 13 Aug 2025 12:49:35 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFtUfOxBTCg28o4AD36h
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+14 Aug 25, 12:56
+'Create Management API Client'
+
+14 Aug 25, 12:56
+'API Host: https://eu1-admin.doofinder.com'
+
+14 Aug 25, 12:56
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+14 Aug 25, 12:56
+'Delete items'
+
+14 Aug 25, 12:56
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+14 Aug 25, 12:56
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Thu, 14 Aug 2025 12:56:41 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFujdLBuGBKekmICv2Fh
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Thu, 14 Aug 2025 12:56:41 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFujdLBuGBKekmICv2Fh
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 14 Aug 2025 12:56:41 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFujdLBuGBKekmICv2Fh
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+16 Aug 25, 00:21
+'Create Management API Client'
+
+16 Aug 25, 00:21
+'API Host: https://eu1-admin.doofinder.com'
+
+16 Aug 25, 00:21
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+16 Aug 25, 00:21
+'Delete items'
+
+16 Aug 25, 00:21
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+16 Aug 25, 00:21
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sat, 16 Aug 2025 00:21:38 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFwXafWYvO9p448GZFph
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sat, 16 Aug 2025 00:21:38 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFwXafWYvO9p448GZFph
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sat, 16 Aug 2025 00:21:38 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFwXafWYvO9p448GZFph
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+17 Aug 25, 00:22
+'Create Management API Client'
+
+17 Aug 25, 00:22
+'API Host: https://eu1-admin.doofinder.com'
+
+17 Aug 25, 00:22
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+17 Aug 25, 00:22
+'Delete items'
+
+17 Aug 25, 00:22
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+17 Aug 25, 00:22
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sun, 17 Aug 2025 00:22:37 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFxmDEQVXCPZT_AI0oER
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sun, 17 Aug 2025 00:22:37 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFxmDEQVXCPZT_AI0oER
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 17 Aug 2025 00:22:37 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFxmDEQVXCPZT_AI0oER
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+18 Aug 25, 00:13
+'Create Management API Client'
+
+18 Aug 25, 00:13
+'API Host: https://eu1-admin.doofinder.com'
+
+18 Aug 25, 00:13
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+18 Aug 25, 00:13
+'Delete items'
+
+18 Aug 25, 00:13
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+18 Aug 25, 00:13
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Mon, 18 Aug 2025 00:13:18 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GFy0HqcuuuCq7lALIOaB
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Mon, 18 Aug 2025 00:13:18 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GFy0HqcuuuCq7lALIOaB
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Mon, 18 Aug 2025 00:13:18 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GFy0HqcuuuCq7lALIOaB
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+19 Aug 25, 00:22
+'Create Management API Client'
+
+19 Aug 25, 00:22
+'API Host: https://eu1-admin.doofinder.com'
+
+19 Aug 25, 00:22
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+19 Aug 25, 00:22
+'Delete items'
+
+19 Aug 25, 00:22
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+19 Aug 25, 00:22
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Tue, 19 Aug 2025 00:22:20 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF0DMYCup9cbU5sBLpKx
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Tue, 19 Aug 2025 00:22:20 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF0DMYCup9cbU5sBLpKx
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Tue, 19 Aug 2025 00:22:20 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF0DMYCup9cbU5sBLpKx
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+19 Aug 25, 13:39
+'Create Management API Client'
+
+19 Aug 25, 13:39
+'API Host: https://eu1-admin.doofinder.com'
+
+19 Aug 25, 13:39
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+19 Aug 25, 13:39
+'Delete items'
+
+19 Aug 25, 13:39
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+19 Aug 25, 13:39
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Tue, 19 Aug 2025 13:39:31 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF0usdX74GSZ3RUAbwtR
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Tue, 19 Aug 2025 13:39:31 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF0usdX74GSZ3RUAbwtR
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Tue, 19 Aug 2025 13:39:31 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF0usdX74GSZ3RUAbwtR
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+20 Aug 25, 12:50
+'Create Management API Client'
+
+20 Aug 25, 12:50
+'API Host: https://eu1-admin.doofinder.com'
+
+20 Aug 25, 12:50
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+20 Aug 25, 12:50
+'Delete items'
+
+20 Aug 25, 12:50
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+20 Aug 25, 12:50
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Wed, 20 Aug 2025 12:50:00 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF16krNKCP-NyBoAntDh
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Wed, 20 Aug 2025 12:50:00 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF16krNKCP-NyBoAntDh
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Wed, 20 Aug 2025 12:50:00 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF16krNKCP-NyBoAntDh
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+20 Aug 25, 12:50
+'Create Management API Client'
+
+20 Aug 25, 12:50
+'API Host: https://eu1-admin.doofinder.com'
+
+20 Aug 25, 12:50
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+20 Aug 25, 13:40
+'Create Management API Client'
+
+20 Aug 25, 13:40
+'API Host: https://eu1-admin.doofinder.com'
+
+20 Aug 25, 13:40
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+20 Aug 25, 13:40
+'Create Management API Client'
+
+20 Aug 25, 13:40
+'API Host: https://eu1-admin.doofinder.com'
+
+20 Aug 25, 13:40
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+20 Aug 25, 13:40
+'Create Management API Client'
+
+20 Aug 25, 13:40
+'API Host: https://eu1-admin.doofinder.com'
+
+20 Aug 25, 13:40
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+20 Aug 25, 13:40
+'Create Management API Client'
+
+20 Aug 25, 13:40
+'API Host: https://eu1-admin.doofinder.com'
+
+20 Aug 25, 13:40
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+21 Aug 25, 13:12
+'Create Management API Client'
+
+21 Aug 25, 13:12
+'API Host: https://eu1-admin.doofinder.com'
+
+21 Aug 25, 13:12
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+21 Aug 25, 13:12
+'Delete items'
+
+21 Aug 25, 13:12
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+21 Aug 25, 13:12
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Thu, 21 Aug 2025 13:12:22 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF3KX9Qt8VfwYMcCZeYx
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Thu, 21 Aug 2025 13:12:22 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF3KX9Qt8VfwYMcCZeYx
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 21 Aug 2025 13:12:22 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF3KX9Qt8VfwYMcCZeYx
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+21 Aug 25, 13:13
+'Create Management API Client'
+
+21 Aug 25, 13:13
+'API Host: https://eu1-admin.doofinder.com'
+
+21 Aug 25, 13:13
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+22 Aug 25, 17:57
+'Create Management API Client'
+
+22 Aug 25, 17:57
+'API Host: https://eu1-admin.doofinder.com'
+
+22 Aug 25, 17:57
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+22 Aug 25, 17:57
+'Delete items'
+
+22 Aug 25, 17:57
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+22 Aug 25, 17:57
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Fri, 22 Aug 2025 17:57:14 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF4of-f_1VtCuHIA2I-R
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Fri, 22 Aug 2025 17:57:14 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF4of-f_1VtCuHIA2I-R
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 22 Aug 2025 17:57:14 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF4of-f_1VtCuHIA2I-R
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+24 Aug 25, 00:22
+'Create Management API Client'
+
+24 Aug 25, 00:22
+'API Host: https://eu1-admin.doofinder.com'
+
+24 Aug 25, 00:22
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+24 Aug 25, 00:22
+'Delete items'
+
+24 Aug 25, 00:22
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+24 Aug 25, 00:22
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sun, 24 Aug 2025 00:22:07 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF6MFTS0sNvHaJwD-aRx
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sun, 24 Aug 2025 00:22:07 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF6MFTS0sNvHaJwD-aRx
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 24 Aug 2025 00:22:07 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF6MFTS0sNvHaJwD-aRx
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+24 Aug 25, 22:07
+'Create Management API Client'
+
+24 Aug 25, 22:07
+'API Host: https://eu1-admin.doofinder.com'
+
+24 Aug 25, 22:07
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+24 Aug 25, 22:07
+'Delete items'
+
+24 Aug 25, 22:07
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+24 Aug 25, 22:07
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Sun, 24 Aug 2025 22:07:55 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF7TVxyZ49PgAKwGG3RB
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Sun, 24 Aug 2025 22:07:55 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF7TVxyZ49PgAKwGG3RB
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 24 Aug 2025 22:07:55 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF7TVxyZ49PgAKwGG3RB
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+26 Aug 25, 00:22
+'Create Management API Client'
+
+26 Aug 25, 00:22
+'API Host: https://eu1-admin.doofinder.com'
+
+26 Aug 25, 00:22
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+26 Aug 25, 00:22
+'Delete items'
+
+26 Aug 25, 00:22
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+26 Aug 25, 00:22
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Tue, 26 Aug 2025 00:22:57 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF8pSeXu_CQyg_cB2knx
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Tue, 26 Aug 2025 00:22:57 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF8pSeXu_CQyg_cB2knx
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Tue, 26 Aug 2025 00:22:57 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF8pSeXu_CQyg_cB2knx
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+26 Aug 25, 06:30
+'Create Management API Client'
+
+26 Aug 25, 06:30
+'API Host: https://eu1-admin.doofinder.com'
+
+26 Aug 25, 06:30
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+26 Aug 25, 12:01
+'Create Management API Client'
+
+26 Aug 25, 12:01
+'API Host: https://eu1-admin.doofinder.com'
+
+26 Aug 25, 12:01
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+26 Aug 25, 12:01
+'Delete items'
+
+26 Aug 25, 12:01
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+26 Aug 25, 12:01
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Tue, 26 Aug 2025 12:01:56 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF9Pbqw5WB44TmwDSTSx
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Tue, 26 Aug 2025 12:01:56 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF9Pbqw5WB44TmwDSTSx
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Tue, 26 Aug 2025 12:01:56 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF9Pbqw5WB44TmwDSTSx
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+27 Aug 25, 12:58
+'Create Management API Client'
+
+27 Aug 25, 12:58
+'API Host: https://eu1-admin.doofinder.com'
+
+27 Aug 25, 12:58
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+27 Aug 25, 12:58
+'Delete items'
+
+27 Aug 25, 12:58
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+27 Aug 25, 12:58
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Wed, 27 Aug 2025 12:58:42 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF-hHDAZeBp8ZpUAyRNh
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Wed, 27 Aug 2025 12:58:42 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF-hHDAZeBp8ZpUAyRNh
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Wed, 27 Aug 2025 12:58:42 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF-hHDAZeBp8ZpUAyRNh
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+27 Aug 25, 13:16
+'Create Management API Client'
+
+27 Aug 25, 13:16
+'API Host: https://eu1-admin.doofinder.com'
+
+27 Aug 25, 13:16
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+27 Aug 25, 15:33
+'Create Management API Client'
+
+27 Aug 25, 15:33
+'API Host: https://eu1-admin.doofinder.com'
+
+27 Aug 25, 15:33
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+27 Aug 25, 15:35
+'Create Management API Client'
+
+27 Aug 25, 15:35
+'API Host: https://eu1-admin.doofinder.com'
+
+27 Aug 25, 15:35
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+28 Aug 25, 11:53
+'Create Management API Client'
+
+28 Aug 25, 11:53
+'API Host: https://eu1-admin.doofinder.com'
+
+28 Aug 25, 11:53
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+28 Aug 25, 11:53
+'Update items'
+
+28 Aug 25, 11:53
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/pages?action=update&platform=wordpress'
+
+28 Aug 25, 11:53
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Thu, 28 Aug 2025 11:53:54 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF_sJ7VFUzq5ZHIAPlyx
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Thu, 28 Aug 2025 11:53:54 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF_sJ7VFUzq5ZHIAPlyx
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 28 Aug 2025 11:53:54 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF_sJ7VFUzq5ZHIAPlyx
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/pages?action=update&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+28 Aug 25, 11:53
+'Delete items'
+
+28 Aug 25, 11:53
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+28 Aug 25, 11:53
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Thu, 28 Aug 2025 11:53:55 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GF_sJ7laikgtcEkAPl0R
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Thu, 28 Aug 2025 11:53:55 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GF_sJ7laikgtcEkAPl0R
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 28 Aug 2025 11:53:55 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GF_sJ7laikgtcEkAPl0R
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'
+
+29 Aug 25, 10:51
+'Create Management API Client'
+
+29 Aug 25, 10:51
+'API Host: https://eu1-admin.doofinder.com'
+
+29 Aug 25, 10:51
+'Hash: Array
+(
+    [] => 43f8f63b4cc81200c84e57bbaef97c61
+)
+'
+
+29 Aug 25, 10:51
+'Delete items'
+
+29 Aug 25, 10:51
+'Making a request to: https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress'
+
+29 Aug 25, 10:51
+'Error in the request: Array
+(
+    [headers] => WpOrg\\Requests\\Utility\\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [date] => Fri, 29 Aug 2025 10:51:23 GMT
+                    [content-length] => 12
+                    [cache-control] => max-age=0, private, must-revalidate
+                    [server] => Cowboy
+                    [x-request-id] => GGA3Uuth0ZZVTtcCYZHB
+                )
+
+        )
+
+    [body] => Unauthorized
+    [response] => Array
+        (
+            [code] => 401
+            [message] => Unauthorized
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\\Requests\\Response Object
+                (
+                    [body] => Unauthorized
+                    [raw] => HTTP/1.1 401 Unauthorized
+Date: Fri, 29 Aug 2025 10:51:23 GMT
+Content-Length: 12
+Connection: close
+cache-control: max-age=0, private, must-revalidate
+server: Cowboy
+x-request-id: GGA3Uuth0ZZVTtcCYZHB
+
+Unauthorized
+                    [headers] => WpOrg\\Requests\\Response\\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 29 Aug 2025 10:51:23 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 12
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=0, private, must-revalidate
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Cowboy
+                                        )
+
+                                    [x-request-id] => Array
+                                        (
+                                            [0] => GGA3Uuth0ZZVTtcCYZHB
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 401
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://eu1-plugins.doofinder.com/item/43f8f63b4cc81200c84e57bbaef97c61/product?action=delete&platform=wordpress
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\\Requests\\Cookie\\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+'

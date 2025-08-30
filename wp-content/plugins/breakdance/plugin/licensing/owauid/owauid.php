@@ -1,0 +1,3 @@
+<?php
+define('BREAKDANCE_OWAUID', '55add30be7f42c666707c6d75540094e');
+?>

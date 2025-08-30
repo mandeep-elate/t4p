@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="48" viewBox="0 0 87 48">
+  <g id="visa" transform="translate(-1265 -6588)">
+    <rect id="Rectangle_416" data-name="Rectangle 416" width="87" height="48" rx="7" transform="translate(1265 6588)" fill="#f2f2f2"/>
+    <g id="_294654_visa_icon" data-name="294654_visa_icon" transform="translate(1254.17 6421.136)">
+      <g id="形状_1_3_" transform="translate(29.846 181.864)">
+        <g id="形状_1" transform="translate(0 0)">
+          <g id="Group_360" data-name="Group 360">
+            <path id="Path_440" data-name="Path 440" d="M82.832,182.174l-2.817,17.311h4.507l2.817-17.311Zm-6.608,0-4.3,11.906-.508-2.564h0l-.112-.575a14.355,14.355,0,0,0-4-5.068,18.025,18.025,0,0,0-2.005-1.388l3.905,15h4.7l7.17-17.311Zm17.588,4.806c0-1.957,4.389-1.706,6.318-.643l.643-3.718a13.009,13.009,0,0,0-4.053-.755c-2.237,0-7.547.978-7.547,5.731,0,4.473,6.233,4.528,6.233,6.876s-5.591,1.929-7.436.447L87.3,198.8a12.623,12.623,0,0,0,5.088.978c3.075,0,7.715-1.593,7.715-5.926C100.1,189.355,93.812,188.936,93.812,186.98Zm18.39-4.806h-3.623a2.071,2.071,0,0,0-2.081,1.29l-6.721,16.021h4.7l.94-2.571h5.729l.529,2.571h4.138Zm-5.489,11.187,2.368-6.478,1.332,6.478Z" transform="translate(-65.303 -181.864)" fill="#005bac" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="形状_1_2_" transform="translate(25.009 182.241)">
+        <g id="形状_1_1_" transform="translate(0 0)">
+          <g id="Group_361" data-name="Group 361">
+            <path id="Path_441" data-name="Path 441" d="M34.507,186.569a1.954,1.954,0,0,0-2.178-1.562H25.094l-.085.294a17.928,17.928,0,0,1,6.814,3.365,13.519,13.519,0,0,1,4.229,5.7Z" transform="translate(-25.009 -185.007)" fill="#f6ac1d" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

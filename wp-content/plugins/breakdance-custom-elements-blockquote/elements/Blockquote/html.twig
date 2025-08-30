@@ -1,0 +1,15 @@
+<div class="custom-blockquote">
+  <div class="custom-blockquote-top">
+  {% if content.content.author %}
+      <cite {{ dataContentEditablePropertyPath('content.content.author') }}>{{ content.content.author }}</cite>
+  {% endif %} 
+  {% if content.content.star_rating %}
+      <span {{ dataContentEditablePropertyPath('content.content.star_rating') }} class="star{{ content.content.star_rating }}"></span>
+  {% endif %}
+</div>
+  
+  <p class="verified-customer">Verified Customer</p>
+  {% if content.content.text %}
+    <p {{ dataContentEditablePropertyPath('content.content.text') }}>{{ content.content.text|default('It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.') }}</p>
+  {% endif %}
+</div>

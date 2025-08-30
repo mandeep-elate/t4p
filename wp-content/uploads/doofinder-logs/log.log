@@ -1,0 +1,1478 @@
+
+13 Jun 25, 10:20
+'Plugin enabled'
+
+13 Jun 25, 10:21
+'Processing Wizard Step 1 - Processing...'
+
+13 Jun 25, 10:25
+'Processing Wizard Step 1 - Processing...'
+
+13 Jun 25, 10:40
+'Plugin enabled'
+
+13 Jun 25, 10:41
+'Processing Wizard Step 1 - Processing...'
+
+16 Jun 25, 07:23
+'upgrader_process - start'
+
+16 Jun 25, 07:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 07:23
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+16 Jun 25, 07:24
+'upgrader_process - start'
+
+16 Jun 25, 07:24
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 07:24
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woo-product-feed-pro/woocommerce-sea.php
+        )
+
+)
+
+16 Jun 25, 07:24
+'upgrader_process - updating plugin'
+
+16 Jun 25, 07:24
+Array
+(
+    [0] => woo-product-feed-pro/woocommerce-sea.php
+)
+
+16 Jun 25, 07:33
+'upgrader_process - start'
+
+16 Jun 25, 07:33
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 07:33
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+16 Jun 25, 07:35
+'upgrader_process - start'
+
+16 Jun 25, 07:35
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 07:35
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+16 Jun 25, 07:37
+'upgrader_process - start'
+
+16 Jun 25, 07:37
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 07:37
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+16 Jun 25, 12:49
+'upgrader_process - start'
+
+16 Jun 25, 12:49
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 12:49
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+16 Jun 25, 12:52
+'upgrader_process - start'
+
+16 Jun 25, 12:52
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+16 Jun 25, 12:52
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+17 Jun 25, 00:23
+'upgrader_process - start'
+
+17 Jun 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+17 Jun 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => query-monitor/query-monitor.php
+        )
+
+)
+
+17 Jun 25, 00:23
+'upgrader_process - updating plugin'
+
+17 Jun 25, 00:23
+Array
+(
+    [0] => query-monitor/query-monitor.php
+)
+
+17 Jun 25, 00:23
+'upgrader_process - start'
+
+17 Jun 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+17 Jun 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce/woocommerce.php
+        )
+
+)
+
+17 Jun 25, 00:23
+'upgrader_process - updating plugin'
+
+17 Jun 25, 00:23
+Array
+(
+    [0] => woocommerce/woocommerce.php
+)
+
+19 Jun 25, 00:22
+'upgrader_process - start'
+
+19 Jun 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+19 Jun 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => litespeed-cache/litespeed-cache.php
+        )
+
+)
+
+19 Jun 25, 00:22
+'upgrader_process - updating plugin'
+
+19 Jun 25, 00:22
+Array
+(
+    [0] => litespeed-cache/litespeed-cache.php
+)
+
+19 Jun 25, 00:22
+'upgrader_process - start'
+
+19 Jun 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+19 Jun 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => wordpress-seo/wp-seo.php
+        )
+
+)
+
+19 Jun 25, 00:22
+'upgrader_process - updating plugin'
+
+19 Jun 25, 00:22
+Array
+(
+    [0] => wordpress-seo/wp-seo.php
+)
+
+24 Jun 25, 00:24
+'upgrader_process - start'
+
+24 Jun 25, 00:24
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+24 Jun 25, 00:24
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce/woocommerce.php
+        )
+
+)
+
+24 Jun 25, 00:24
+'upgrader_process - updating plugin'
+
+24 Jun 25, 00:24
+Array
+(
+    [0] => woocommerce/woocommerce.php
+)
+
+25 Jun 25, 00:22
+'upgrader_process - start'
+
+25 Jun 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+25 Jun 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+        )
+
+)
+
+25 Jun 25, 00:22
+'upgrader_process - updating plugin'
+
+25 Jun 25, 00:22
+Array
+(
+    [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+)
+
+26 Jun 25, 00:22
+'upgrader_process - start'
+
+26 Jun 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+26 Jun 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woo-product-feed-pro/woocommerce-sea.php
+        )
+
+)
+
+26 Jun 25, 00:22
+'upgrader_process - updating plugin'
+
+26 Jun 25, 00:22
+Array
+(
+    [0] => woo-product-feed-pro/woocommerce-sea.php
+)
+
+30 Jun 25, 18:21
+'upgrader_process - start'
+
+30 Jun 25, 18:21
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jun 25, 18:21
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+        )
+
+)
+
+30 Jun 25, 18:21
+'upgrader_process - updating plugin'
+
+30 Jun 25, 18:21
+Array
+(
+    [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+)
+
+2 Jul 25, 00:22
+'upgrader_process - start'
+
+2 Jul 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+2 Jul 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-services/woocommerce-services.php
+        )
+
+)
+
+2 Jul 25, 00:22
+'upgrader_process - updating plugin'
+
+2 Jul 25, 00:22
+Array
+(
+    [0] => woocommerce-services/woocommerce-services.php
+)
+
+2 Jul 25, 00:22
+'upgrader_process - start'
+
+2 Jul 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+2 Jul 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => wordpress-seo/wp-seo.php
+        )
+
+)
+
+2 Jul 25, 00:22
+'upgrader_process - updating plugin'
+
+2 Jul 25, 00:22
+Array
+(
+    [0] => wordpress-seo/wp-seo.php
+)
+
+2 Jul 25, 11:56
+'upgrader_process - start'
+
+2 Jul 25, 11:56
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+2 Jul 25, 11:56
+Array
+(
+    [type] => plugin
+    [action] => install
+)
+
+2 Jul 25, 12:07
+'upgrader_process - start'
+
+2 Jul 25, 12:07
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+2 Jul 25, 12:07
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+        )
+
+)
+
+2 Jul 25, 12:07
+'upgrader_process - updating plugin'
+
+2 Jul 25, 12:07
+Array
+(
+    [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+)
+
+5 Jul 25, 00:21
+'upgrader_process - start'
+
+5 Jul 25, 00:21
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+5 Jul 25, 00:21
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => pymntpl-paypal-woocommerce/pymntpl-paypal-woocommerce.php
+        )
+
+)
+
+5 Jul 25, 00:21
+'upgrader_process - updating plugin'
+
+5 Jul 25, 00:21
+Array
+(
+    [0] => pymntpl-paypal-woocommerce/pymntpl-paypal-woocommerce.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => advanced-custom-fields/acf.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => advanced-custom-fields/acf.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => check-email/check-email.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => check-email/check-email.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => litespeed-cache/litespeed-cache.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => litespeed-cache/litespeed-cache.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => pymntpl-paypal-woocommerce/pymntpl-paypal-woocommerce.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => pymntpl-paypal-woocommerce/pymntpl-paypal-woocommerce.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => product-import-export-for-woo/product-import-export-for-woo.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => product-import-export-for-woo/product-import-export-for-woo.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => query-monitor/query-monitor.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => query-monitor/query-monitor.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce/woocommerce.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => woocommerce/woocommerce.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-services/woocommerce-services.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => woocommerce-services/woocommerce-services.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woo-store-vacation/woo-store-vacation.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => woo-store-vacation/woo-store-vacation.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => yith-woocommerce-wishlist/init.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => yith-woocommerce-wishlist/init.php
+)
+
+30 Jul 25, 18:23
+'upgrader_process - start'
+
+30 Jul 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Jul 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => wordpress-seo/wp-seo.php
+        )
+
+)
+
+30 Jul 25, 18:23
+'upgrader_process - updating plugin'
+
+30 Jul 25, 18:23
+Array
+(
+    [0] => wordpress-seo/wp-seo.php
+)
+
+31 Jul 25, 00:25
+'upgrader_process - start'
+
+31 Jul 25, 00:25
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+31 Jul 25, 00:25
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => litespeed-cache/litespeed-cache.php
+        )
+
+)
+
+31 Jul 25, 00:25
+'upgrader_process - updating plugin'
+
+31 Jul 25, 00:25
+Array
+(
+    [0] => litespeed-cache/litespeed-cache.php
+)
+
+7 Aug 25, 18:21
+'upgrader_process - start'
+
+7 Aug 25, 18:21
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+7 Aug 25, 18:21
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => updraftplus/updraftplus.php
+        )
+
+)
+
+7 Aug 25, 18:21
+'upgrader_process - updating plugin'
+
+7 Aug 25, 18:21
+Array
+(
+    [0] => updraftplus/updraftplus.php
+)
+
+7 Aug 25, 18:22
+'upgrader_process - start'
+
+7 Aug 25, 18:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+7 Aug 25, 18:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => yith-woocommerce-wishlist/init.php
+        )
+
+)
+
+7 Aug 25, 18:22
+'upgrader_process - updating plugin'
+
+7 Aug 25, 18:22
+Array
+(
+    [0] => yith-woocommerce-wishlist/init.php
+)
+
+11 Aug 25, 18:23
+'upgrader_process - start'
+
+11 Aug 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+11 Aug 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => advanced-custom-fields/acf.php
+        )
+
+)
+
+11 Aug 25, 18:23
+'upgrader_process - updating plugin'
+
+11 Aug 25, 18:23
+Array
+(
+    [0] => advanced-custom-fields/acf.php
+)
+
+11 Aug 25, 18:23
+'upgrader_process - start'
+
+11 Aug 25, 18:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+11 Aug 25, 18:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+        )
+
+)
+
+11 Aug 25, 18:23
+'upgrader_process - updating plugin'
+
+11 Aug 25, 18:23
+Array
+(
+    [0] => doofinder-for-woocommerce/doofinder-for-woocommerce.php
+)
+
+12 Aug 25, 18:22
+'upgrader_process - start'
+
+12 Aug 25, 18:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+12 Aug 25, 18:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce/woocommerce.php
+        )
+
+)
+
+12 Aug 25, 18:22
+'upgrader_process - updating plugin'
+
+12 Aug 25, 18:22
+Array
+(
+    [0] => woocommerce/woocommerce.php
+)
+
+12 Aug 25, 18:22
+'upgrader_process - start'
+
+12 Aug 25, 18:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+12 Aug 25, 18:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => wordpress-seo/wp-seo.php
+        )
+
+)
+
+12 Aug 25, 18:22
+'upgrader_process - updating plugin'
+
+12 Aug 25, 18:22
+Array
+(
+    [0] => wordpress-seo/wp-seo.php
+)
+
+13 Aug 25, 00:23
+'upgrader_process - start'
+
+13 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+13 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+        )
+
+)
+
+13 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+13 Aug 25, 00:23
+Array
+(
+    [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+)
+
+14 Aug 25, 00:23
+'upgrader_process - start'
+
+14 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+14 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-services/woocommerce-services.php
+        )
+
+)
+
+14 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+14 Aug 25, 00:23
+Array
+(
+    [0] => woocommerce-services/woocommerce-services.php
+)
+
+18 Aug 25, 00:21
+'upgrader_process - start'
+
+18 Aug 25, 00:21
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+18 Aug 25, 00:21
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => fluid-checkout/fluid-checkout.php
+        )
+
+)
+
+18 Aug 25, 00:21
+'upgrader_process - updating plugin'
+
+18 Aug 25, 00:21
+Array
+(
+    [0] => fluid-checkout/fluid-checkout.php
+)
+
+19 Aug 25, 00:22
+'upgrader_process - start'
+
+19 Aug 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+19 Aug 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+        )
+
+)
+
+19 Aug 25, 00:22
+'upgrader_process - updating plugin'
+
+19 Aug 25, 00:22
+Array
+(
+    [0] => woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+)
+
+20 Aug 25, 18:22
+'upgrader_process - start'
+
+20 Aug 25, 18:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+20 Aug 25, 18:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woo-product-feed-pro/woocommerce-sea.php
+        )
+
+)
+
+20 Aug 25, 18:22
+'upgrader_process - updating plugin'
+
+20 Aug 25, 18:22
+Array
+(
+    [0] => woo-product-feed-pro/woocommerce-sea.php
+)
+
+20 Aug 25, 18:22
+'upgrader_process - start'
+
+20 Aug 25, 18:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+20 Aug 25, 18:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce/woocommerce.php
+        )
+
+)
+
+20 Aug 25, 18:22
+'upgrader_process - updating plugin'
+
+20 Aug 25, 18:22
+Array
+(
+    [0] => woocommerce/woocommerce.php
+)
+
+23 Aug 25, 00:21
+'upgrader_process - start'
+
+23 Aug 25, 00:21
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+23 Aug 25, 00:21
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => fluid-checkout/fluid-checkout.php
+        )
+
+)
+
+23 Aug 25, 00:21
+'upgrader_process - updating plugin'
+
+23 Aug 25, 00:21
+Array
+(
+    [0] => fluid-checkout/fluid-checkout.php
+)
+
+27 Aug 25, 00:23
+'upgrader_process - start'
+
+27 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+27 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress.php
+        )
+
+)
+
+27 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+27 Aug 25, 00:23
+Array
+(
+    [0] => duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress.php
+)
+
+27 Aug 25, 00:23
+'upgrader_process - start'
+
+27 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+27 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce-services/woocommerce-services.php
+        )
+
+)
+
+27 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+27 Aug 25, 00:23
+Array
+(
+    [0] => woocommerce-services/woocommerce-services.php
+)
+
+27 Aug 25, 00:23
+'upgrader_process - start'
+
+27 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+27 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => wordpress-seo/wp-seo.php
+        )
+
+)
+
+27 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+27 Aug 25, 00:23
+Array
+(
+    [0] => wordpress-seo/wp-seo.php
+)
+
+28 Aug 25, 00:22
+'upgrader_process - start'
+
+28 Aug 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+28 Aug 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => woocommerce/woocommerce.php
+        )
+
+)
+
+28 Aug 25, 00:22
+'upgrader_process - updating plugin'
+
+28 Aug 25, 00:22
+Array
+(
+    [0] => woocommerce/woocommerce.php
+)
+
+29 Aug 25, 00:22
+'upgrader_process - start'
+
+29 Aug 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+29 Aug 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => litespeed-cache/litespeed-cache.php
+        )
+
+)
+
+29 Aug 25, 00:22
+'upgrader_process - updating plugin'
+
+29 Aug 25, 00:22
+Array
+(
+    [0] => litespeed-cache/litespeed-cache.php
+)
+
+29 Aug 25, 00:22
+'upgrader_process - start'
+
+29 Aug 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+29 Aug 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => pymntpl-paypal-woocommerce/pymntpl-paypal-woocommerce.php
+        )
+
+)
+
+29 Aug 25, 00:22
+'upgrader_process - updating plugin'
+
+29 Aug 25, 00:22
+Array
+(
+    [0] => pymntpl-paypal-woocommerce/pymntpl-paypal-woocommerce.php
+)
+
+29 Aug 25, 00:22
+'upgrader_process - start'
+
+29 Aug 25, 00:22
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+29 Aug 25, 00:22
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => yith-woocommerce-product-bundles-premium/init.php
+        )
+
+)
+
+29 Aug 25, 00:22
+'upgrader_process - updating plugin'
+
+29 Aug 25, 00:22
+Array
+(
+    [0] => yith-woocommerce-product-bundles-premium/init.php
+)
+
+30 Aug 25, 00:23
+'upgrader_process - start'
+
+30 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => wp-mail-smtp/wp_mail_smtp.php
+        )
+
+)
+
+30 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+30 Aug 25, 00:23
+Array
+(
+    [0] => wp-mail-smtp/wp_mail_smtp.php
+)
+
+30 Aug 25, 00:23
+'upgrader_process - start'
+
+30 Aug 25, 00:23
+'doofinder-for-woocommerce/doofinder-for-woocommerce.php'
+
+30 Aug 25, 00:23
+Array
+(
+    [action] => update
+    [type] => plugin
+    [bulk] => 1
+    [plugins] => Array
+        (
+            [0] => yith-woocommerce-product-bundles-premium/init.php
+        )
+
+)
+
+30 Aug 25, 00:23
+'upgrader_process - updating plugin'
+
+30 Aug 25, 00:23
+Array
+(
+    [0] => yith-woocommerce-product-bundles-premium/init.php
+)
